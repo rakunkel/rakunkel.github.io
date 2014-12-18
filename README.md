@@ -1,6 +1,4 @@
 rakunkel.github.io
 ==================
 
-User Blog
-
-Jekyll Blog
+Just a Jekyll Blog
